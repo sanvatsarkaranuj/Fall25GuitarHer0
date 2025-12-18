@@ -22,6 +22,14 @@ Our project aims to recreate the classic Guitar Hero experience by attempting to
 
 ### Key Features
 
+**Four Note Columns** 
+**Dual Game Modes** | Manual (practice) and Automatic (song) modes |
+**Audio Feedback** | PWM-generated musical tones (C major chord) |
+**Visual Effects** | Animated flames, hit flashes, circular notes |
+**Real-time Scoring** 
+**Keypad Input**
+
+
 | Feature | Description |
 |---------|-------------|
 | **Four Note Columns** | Green, Red, Purple, and Blue lanes |
