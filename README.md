@@ -133,7 +133,7 @@ Download all source files from this repository:
 
 ### Block Diagram
 
-<img width="2370" height="1785" alt="Image" src="https://github.com/user-attachments/assets/84433b6a-739f-437f-9daa-5292d0e380b0" />
+<img width="2370" height="1505" alt="Image" src="https://github.com/user-attachments/assets/22215055-5227-423d-8c8a-6f55f4794b3d" />
 
 ### Module Overview
 
