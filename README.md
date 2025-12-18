@@ -14,8 +14,6 @@ https://github.com/user-attachments/assets/097b2fa6-f99b-4719-93e8-59f337e5834c
 
 Our project aims to recreate the classic Guitar Hero experience by attempting to replicate its core gameplay mechanics, and emulate its art style. When the game is started, notes of four different colors, green, red, pink, and blue begin falling down from the top of the screen into four respective columns, and players must press the corresponding keypad buttons when the notes reach the target zone at the bottom of the screen in order to score points. The game features both a **manual practice mode** and an **automatic song mode** that a plays an automatically progressing map tied to a melody.
 
-### References: Original Guitar Hero and Past Labs/Projects
-
 ![Image](https://github.com/user-attachments/assets/06480f36-90ae-4178-9232-adf2df269e99)
 
 ### Key Features
