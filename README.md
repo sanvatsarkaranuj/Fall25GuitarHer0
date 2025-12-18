@@ -260,7 +260,7 @@ END toneGenerator;
 
 ## 7. Modifications from Starter Code
 
-This project builds upon the [CPE487_Final_Project by jmarti5682](https://github.com/jmarti5682/CPE487_Final_Project), which was an incomplete Guitar Hero implementation with only 2 working columns and no audio. We made **extensive modifications** to create a fully functional game.
+This project builds upon the Pong lab, particularly the ball.vhd module, as well as the ideas explored in the Fall 2024 Guitar Hero project highilghted in the project rubric. We made **extensive modifications** to stater code, as well as drafting our own key modules in order to create a fully functional Guitar Hero gameplay experience.
 
 ### Summary of Changes
 
