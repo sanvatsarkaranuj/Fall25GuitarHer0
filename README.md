@@ -125,7 +125,7 @@ Download all source files from this repository:
 
 ### Step 5: Play!
 
-- Set SW0 to OFF for practice mode, ON for song mode
+- The game beings in practice mode, set SW0 to ON for song mode, and back to SW0 for practice mode
 - Press BTNC to start song (in song mode)
 - Use keypad bottom row (0, F, E, D) to hit notes
 
