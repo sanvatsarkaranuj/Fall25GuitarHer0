@@ -2,7 +2,7 @@
 
 **By: Anuj Sanvatsarkar and Emre Cosgun
 
-A fully functional Guitar Hero-style rhythm game implemented on the Nexys A7-100T FPGA using VHDL, featuring automatic song playback and animated visual effects.
+This project recreates the gameplay of class Guitar Hero-style rhythm games implemented on the Nexys A7-100T FPGA using VHDL, featuring automatic song playback and animated visual effects.
 
 ![Guitar Hero Logo](images/poster.png)
 
