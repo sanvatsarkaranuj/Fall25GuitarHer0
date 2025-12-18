@@ -1,8 +1,8 @@
-# CPE 487: Final Project - Guitar Hero FPGA
+# CPE 487: Final Project - Guitar Hero
 
-**By: Caleb Romero and Jose Martinez-Ponce**
+**By: Anuj Sanvatsarkar and Emre Cosgun
 
-A fully functional Guitar Hero-style rhythm game implemented on the Nexys A7-100T FPGA using VHDL, featuring automatic song playback, PWM audio feedback, and animated visual effects.
+A fully functional Guitar Hero-style rhythm game implemented on the Nexys A7-100T FPGA using VHDL, featuring automatic song playback and animated visual effects.
 
 ![Guitar Hero Logo](images/poster.png)
 
@@ -18,7 +18,7 @@ A fully functional Guitar Hero-style rhythm game implemented on the Nexys A7-100
 
 ## 1. Project Overview
 
-This project recreates the classic Guitar Hero experience on an FPGA. Notes fall down four colored columns, and players must press the corresponding keypad buttons when notes reach the target zone to score points. The game features both a **manual practice mode** and an **automatic song mode** that plays a recognizable melody.
+This project recreates the classic Guitar Hero experience on the Nexys A7-100T. Notes fall down from the top of the screen in four colored columns, and players must press the corresponding keypad buttons when notes reach the target zone to score points. The game features both a **manual practice mode** and an **automatic song mode** that a melody.
 
 ### Key Features
 
@@ -32,6 +32,8 @@ This project recreates the classic Guitar Hero experience on an FPGA. Notes fall
 | **Keypad Input** | 4x4 matrix keypad simulates guitar buttons |
 
 ### How to Play
+
+The goal of the game is to match the rythm of the track and catch the notes at the right time to score as many points as possible during the level.
 
 **When SW0 is OFF (Practice Mode):**
 - Press buttons (BTNL, BTND, BTNR, BTNU) to spawn notes
@@ -576,17 +578,3 @@ If given more time, we would implement:
 6. **Better Graphics** - Sprites instead of simple shapes
 7. **Two-Player Mode** - Split screen competition
 
----
-
-## 12. Acknowledgments
-
-- **Starter Code:** [CPE487_Final_Project by jmarti5682](https://github.com/jmarti5682/CPE487_Final_Project)
-- **Lab References:** CPE 487 Labs 3, 4, and 6 from [byett/dsd](https://github.com/byett/dsd)
-- **Course:** CPE 487 - Digital System Design, Stevens Institute of Technology
-- **Instructor:** Professor Kevin Lu
-
----
-
-## 13. License
-
-This project is for educational purposes as part of CPE 487 coursework at Stevens Institute of Technology.
